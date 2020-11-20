@@ -1,3 +1,8 @@
+REACT Project in group.
+
+"Un soir, un film" est un projet qui permet de choisir un film ou une série selon des les nouveautés, la notation et les genres. 
+Ce projet a été développé en 2 jours et demi dans le cadre d'une formation REACT.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
